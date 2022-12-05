@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @01-Abdul-Hadi
 - 👀 I’m interested in exploring various fields in Computer Science
-- 🌱 I’m currently learning BLockchain Ethereum Technology, SQL , UNIX shellscript and JAVA
+- 🌱 I’m currently learning Blockchain Ethereum Technology, SQL, UNIX shellscript
 - 💞️ I’m looking to collaborate on any Computer Science related fields
 - 📫 How to reach me  [e-mail]: abdulhadi12235@gmail.com
 
